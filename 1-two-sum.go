@@ -1,4 +1,4 @@
-package leetcode
+package main
 
 // store complement of ``nums`` to ``target``: remains[target-nums[n]] = n
 // solution got when complement remains[target-n] found

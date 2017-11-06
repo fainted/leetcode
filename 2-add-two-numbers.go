@@ -1,4 +1,4 @@
-package leetcode
+package main
 
 func digit(node *ListNode) int {
 	if node == nil {

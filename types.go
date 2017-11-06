@@ -1,4 +1,4 @@
-package leetcode
+package main
 
 // ListNode linked list node definition
 type ListNode struct {
